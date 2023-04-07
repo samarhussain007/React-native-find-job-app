@@ -1,0 +1,25 @@
+{
+  "folders": [
+	{
+		"name": "React-native-app",
+		"path": ".."
+	},
+	{
+		"name": "components",
+		"path": "../../../Downloads/react_native/jobsift-starter/components"
+	},
+	{
+		"name": "assets",
+		"path": "../../../Downloads/react_native/jobsift-starter/assets"
+	},
+	{
+		"name": "styles",
+		"path": "../../../Downloads/react_native/jobsift-starter/styles"
+	},
+	{
+		"name": "constants",
+		"path": "../../../Downloads/react_native/jobsift-starter/constants"
+	}
+],
+  "settings": {}
+}
